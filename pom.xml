@@ -25,7 +25,7 @@
 
   <groupId>org.jszip.redist</groupId>
   <artifactId>jquery-migrate</artifactId>
-  <version>1.1.1-SNAPSHOT</version>
+  <version>1.1.1</version>
   <packaging>jszip</packaging>
 
   <name>jQuery Migrate</name>
@@ -46,7 +46,7 @@
     <connection>scm:git:git://github.com/jszip/jquery-migrate-redist.git</connection>
     <developerConnection>scm:git:git@github.com:jszip/jquery-migrate-redist.git</developerConnection>
     <url>http://github.com/jszip/jquery-migrate-redist/tree/master/</url>
-    <tag>HEAD</tag>
+    <tag>jquery-migrate-1.1.1</tag>
   </scm>
   <issueManagement>
     <system>github</system>
